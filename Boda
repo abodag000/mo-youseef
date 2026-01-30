@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>منصة الفيزياء</title>
+<style>
+body{
+  margin:0;
+  font-family:Arial;
+  background:linear-gradient(135deg,#0f2027,#203a43,#2c5364);
+  color:white;
+  text-align:center;
+}
+header{
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+a{
+  background:#00eaff;
+  padding:15px 25px;
+  color:black;
+  text-decoration:none;
+  border-radius:8px;
+  font-weight:bold;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>منصة تعليم الفيزياء</h1>
+<p>فيديوهات • كورسات • اختبارات</p>
+<a href="#">ابدأ التعلم</a>
+</header>
+
+</body>
+</html>
